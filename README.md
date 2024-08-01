@@ -2,7 +2,7 @@
 
 <p>
     Welcome to my page! <br>
-    I'm Luisa, Product Owner but I'm transitioning into a DevOps role from 
+    I'm Luisa, Product Owner but I'm transitioning into a DevOps & Cloud role from 
     <img src="https://static.vecteezy.com/system/resources/thumbnails/012/177/225/small_2x/ecuador-map-city-color-of-country-flag-png.png" width="13"/> 
     <b>Guayaquil, Ecuador! 🔥</b>
 </p>
